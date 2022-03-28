@@ -1,2 +1,3 @@
-- 👋 Hi, I’m @MRTACO09
-
+- 👋 Hi, I’m @MRTACO09.
+- My domain is mrtaco.xyz (Nothing Posted Yet).
+- Just fun little code thingies.
