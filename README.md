@@ -1,3 +1,9 @@
 - 👋 Hi, I’m @MRTACO09.
-- My domain is mrtaco.xyz (Nothing Posted Yet).
-- Just fun little code thingies.
+
+## Where to find me
+
+You can find me on Github @MRTACO09
+
+You can find me on Codepen @MRTACO09
+
+You can find me on Scratch @MRTACO_09
